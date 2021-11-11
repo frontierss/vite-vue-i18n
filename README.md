@@ -1,6 +1,6 @@
 # Vue 3 + Vite
 
-tailwindcss-jit + router + vuex + axios + sass
+tailwindcss-jit + i18n
 
 ## Project setup
 ```
